@@ -1,0 +1,3 @@
+food,dominos,mcdonalds
+taxi,lyft,uber
+coffee,starbucks,coffee,
