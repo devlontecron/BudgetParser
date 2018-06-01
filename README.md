@@ -2,7 +2,7 @@
 A simple parser and tagging system to identify and group Banking transactions and return sums.
 
 ### Key Ideologies: 
-* General use for specific formats or other sources.
+* Conversion of specific formats or other sources to general, usable formats.
 * Granular control for tagging and identification.
 * No outside resources required (database, server, api's)
 
